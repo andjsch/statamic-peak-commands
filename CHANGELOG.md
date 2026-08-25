@@ -1,5 +1,10 @@
 # Changelog
 
+## v11.0.0 (2026-08-25)
+
+### What's new
+- Presets, blocks and stubs don't use typography partials anymore but the vanilla CSS typography solution introduced in Peak v22 . #45 by @robdekort and @andjsch
+
 ## v10.7.4 (2026-08-18)
 
 ### What's improved
